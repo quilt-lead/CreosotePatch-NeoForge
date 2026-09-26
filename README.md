@@ -1,13 +1,13 @@
 # CreosotePatch NeoForge
 
-CreosotePatch is a lightweight **NeoForge** compatibility mod for Minecraft 1.21.1, not a legacy Forge mod. Inspired by the interoperability goal of the original [CreosotePatch](https://modrinth.com/mod/creosotepatch), this implementation goes further by changing Create's default treated-wood Spout recipe and adding a reverse stonecutter conversion.
+CreosotePatch is a lightweight **NeoForge** compatibility mod for Minecraft 1.21.1, not a legacy Forge mod. Inspired by the interoperability goal of the original [CreosotePatch](https://modrinth.com/mod/creosotepatch), this implementation goes further by changing Create's default treated-wood Spout recipe and adding bidirectional stonecutter conversions.
 
 ## Features
 
 The mod provides two recipes:
 
 * Create's default treated-wood Spout recipe is replaced so 250 mB of Immersive Engineering creosote and any vanilla plank produce one TFMG hardened plank instead.
-* One TFMG hardened plank can be converted into one Immersive Engineering treated wood block in a stonecutter.
+* One TFMG hardened plank or one Immersive Engineering treated wood block can be converted into the other in a stonecutter.
 
 The recipes do not modify fluid tags, Java code from other mods, or existing registries. The mod only supplies its own recipe data and requires the listed mods to be installed.
 

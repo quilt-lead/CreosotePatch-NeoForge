@@ -9,7 +9,7 @@ version="1.0.0"
 displayName="Creosote Fix"
 authors="quilt-lead"
 description='''
-Adds an Immersive Engineering creosote filling recipe for TFMG Hardened Planks and a stonecutter recipe to convert Hardened Planks into treated wood on Minecraft 1.21.1 NeoForge.
+Adds an Immersive Engineering creosote filling recipe for TFMG Hardened Planks and bidirectional stonecutter recipes between Hardened Planks and treated wood on Minecraft 1.21.1 NeoForge.
 '''
 
 [[dependencies.creosotepatch]]

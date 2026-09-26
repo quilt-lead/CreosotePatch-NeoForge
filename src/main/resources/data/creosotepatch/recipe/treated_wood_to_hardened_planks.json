@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "immersiveengineering:treated_wood_horizontal"
+  },
+  "result": {
+    "id": "tfmg:hardened_planks",
+    "count": 1
+  }
+}
