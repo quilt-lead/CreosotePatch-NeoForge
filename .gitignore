@@ -1,0 +1,30 @@
+﻿# Gradle
+.gradle/
+build/
+
+# Minecraft / NeoForge runtime
+run/
+logs/
+
+# Java
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated/local files
+*.log
